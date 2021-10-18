@@ -1,0 +1,1 @@
+/home/pg/.config/fish/config.fish
