@@ -15,3 +15,11 @@ https://aur.archlinux.org/packages/timeshift-autosnap/
 
 ### Usage:
 Automatic snapshot creation on btrfs when upgrading the system using paman.
+
+## Starship Cross-Shelll Platform:
+
+### URL:
+https://starship.rs/
+
+### Usage:
+Customizing the fish shell
