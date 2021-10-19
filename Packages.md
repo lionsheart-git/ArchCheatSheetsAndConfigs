@@ -23,3 +23,13 @@ https://starship.rs/
 
 ### Usage:
 Customizing the fish shell
+
+## Noto-emojis
+
+### Pacman:
+```bash
+sudo pacman -S noto-fonts-emoji
+```
+
+### Usage:
+Needed by starship to display icons in terminal
