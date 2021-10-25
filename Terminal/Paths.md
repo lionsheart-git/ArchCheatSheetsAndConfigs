@@ -12,3 +12,9 @@
 
 ## Requires:
 - Nerd Font installed https://www.nerdfonts.com/font-downloads
+
+# .gitconfig
+
+##Path:
+~/.gitconfig
+
